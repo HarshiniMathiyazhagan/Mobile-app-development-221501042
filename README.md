@@ -115,23 +115,6 @@ This project is a compilation of small-scale experiments tailored to improve dif
 
 ---
 
-## **Installation**  
-Follow the provided instructions in the repository to set up the application on your local device.
-
----
-
-## **How to Use**  
-Navigate through the app's menu to explore each feature. Ensure necessary permissions like camera or microphone access are granted for smooth operation.
-
----
-
-## **Contribution Guidelines**  
-Feel free to contribute to this repository by forking it, implementing new features or improvements, and submitting a pull request.
-
----
-
-## **License**  
-Refer to the `LICENSE` file in the repository for detailed information regarding licensing terms.
 
 
 ## Installation
